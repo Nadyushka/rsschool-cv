@@ -34,3 +34,16 @@ function stringToArray(string){
 }
 
 ```
+
+#### Courses:
+
+1. FreeCodeCamp - in process
+2. rs-school - in process
+3. free YouTube Course - "Freelancer for life" - completed
+
+#### Languages:
+
+- English - B2
+- German - B1/B2
+- Russian - native
+- Polish - basic
